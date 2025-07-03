@@ -1,1 +1,1 @@
-# django-JWT-stripe
+# django-JWT-stripe-backend
